@@ -5,7 +5,7 @@
  I learn everyday something new. 
 ```
 
-<img src="./images/catMoving.gif" alt="This is an animated gif image, but it does not move"/>
+<img src="./catMoving.gif" alt="This is an animated gif image, but it does not move"/>
 
 <img src="https://img.shields.io/badge/Language-C%23-blue"/>
 <img src="https://img.shields.io/badge/Language-Java-blue"/>
