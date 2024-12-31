@@ -11,7 +11,6 @@ I am passionate about continuously learning new technologies 📚 and actively c
 <img src="./catMoving.gif" alt="This is an animated gif image, but it does not move"/>
 
 <img src="https://img.shields.io/badge/Language-C%23-blue"/>
-<img src="https://img.shields.io/badge/Language-Java-blue"/>
 
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=karimz1&theme=dracula&bg_color=0d1117&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true)
