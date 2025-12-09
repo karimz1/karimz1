@@ -38,18 +38,5 @@ One of my side projects, [**imgcompress**](https://hub.docker.com/r/karimz1/imgc
 - Simplifying deployments and supporting reproducible builds.
 
 
-
-
-## **🌱** **What I’m Learning & Exploring**
-
-I like staying curious and experimenting with tools that make software development simpler and more enjoyable.
-
-Some of the technologies I’ve been spending time with lately include:
-
-- 🐍 **Python** – scripting, automation, and small side tools.
-- 🗄️ **SQL** – optimizing queries and managing relational data.
-- ⚙️ **.NET** – my main stack for building stable, modern applications.
-- ☁️ **AWS** – deepening my understanding of cloud architecture.
-- 🚀 **Azure DevOps** – improving delivery pipelines and team collaboration.
-- 🌩️ **Azure Cloud (a little)** – learning more as I go.
-
+Best Regards,
+Karim
