@@ -6,7 +6,7 @@ Hi there! I’m Karim — a **Solution Architect** based in **Stuttgart, Germany
 
 I work mainly with cloud and backend technologies, helping teams design scalable systems and improve how software gets built and deployed.
 
-One of my side projects, [**imgcompress**](https://hub.docker.com/r/karimz1/imgcompress), has grown to around **[![Docker Pulls](https://img.shields.io/docker/pulls/karimz1/imgcompress)](https://hub.docker.com/r/karimz1/imgcompress) uses**, which I’m really grateful for it’s amazing to see something small I made helping others.
+One of my side projects, [**imgcompress**](https://github.com/karimz1/imgcompress), has grown to around **[![Docker Pulls](https://img.shields.io/docker/pulls/karimz1/imgcompress)](https://hub.docker.com/r/karimz1/imgcompress) uses**, which I’m really grateful for it’s amazing to see something small I made helping others.
 
 
 
