@@ -1,42 +1,42 @@
 # 👋 Hi, I’m Karim Zouine
+### Solution Architect | Open Source Developer | Cloud Systems Specialist
 
+<p align="left">
+  <a href="https://karimzouine.com"><img src="https://img.shields.io/badge/Portfolio-karimzouine.com-6366f1?style=for-the-badge&logo=react&logoColor=white" target="_blank" /></a>
+  <a href="https://hub.docker.com/u/karimz1"><img src="https://img.shields.io/badge/Docker_Hub-karimz1-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank" /></a>
+</p>
 
+---
 
-Hi there! I’m Karim — a **Solution Architect** based in **Stuttgart, Germany**, who enjoys building tools, learning new things, and contributing to the open-source community.
+### 🚀 About Me
+I am a **Solution Architect** based in **Stuttgart, Germany**, dedicated to architecting robust cloud solutions and crafting impactful software. I bridge the gap between complex business requirements and scalable technical implementation.
 
-I work mainly with cloud and backend technologies, helping teams design scalable systems and improve how software gets built and deployed.
+*   🔭 **Current Focus**: Modernizing enterprise infrastructure and streamlining software delivery.
+*   🌱 **Learning**: Deepening my expertise in Azure Cloud architecture and event-driven systems.
+*   💬 **Ask me about**: .NET Microservices, AWS Architecture, and DevOps automation.
 
-One of my side projects, [**imgcompress**](https://github.com/karimz1/imgcompress), has grown to around **[![Docker Pulls](https://img.shields.io/docker/pulls/karimz1/imgcompress)](https://hub.docker.com/r/karimz1/imgcompress) uses**, which I’m really grateful for it’s amazing to see something small I made helping others.
+---
 
+### 🏆 Featured Impact
+> One of my flagship tools, [**ImgCompress**](https://karimz1.github.io/imgcompress), has reached a massive milestone in the community:
+> 
+> [![Docker Pulls](https://img.shields.io/docker/pulls/karimz1/imgcompress?style=flat-square&color=6366f1&label=IMGCOMPRESS%20DOCKER%20PULLS)](https://hub.docker.com/r/karimz1/imgcompress)
+> 
+> It started as a personal solution and now helps thousands of developers automate their image optimization workflows.
 
+---
 
+### 🛠️ Tech Stack & Expertise
 
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Architecture** | Scalable Systems, CI/CD, IaC, Microservices, SQL/ACID Compliance |
 
-## **🛠️** **What I Work With Every Day**
+---
 
-### **💻** **.NET Development**
-
-- Building practical, maintainable applications for real-world needs.
-- Writing clean, reliable code and improving team development standards.
-- Working with **SQL databases** to ensure strong, ACID-compliant operations in production systems.
-
-
-
-
-### **☁️** **AWS & Azure DevOps**
-
-- Designing and automating **cloud architectures** that balance scalability and simplicity.
-- Setting up **CI/CD pipelines** and deployment workflows to make development smoother.
-- Using **Azure Cloud** where needed — not an expert yet, but always learning and improving.
-
-
-
-
-### **🐳** **Docker**
-
-- Containerizing applications for consistent environments across development and production.
-- Simplifying deployments and supporting reproducible builds.
-
-
-Best Regards,
-Karim
+### 📬 Connect with Me
+- **Website**: [karimzouine.com](https://karimzouine.com)
+- **Email**: [mails.karimzouine@gmail.com](mailto:mails.karimzouine@gmail.com)
