@@ -17,12 +17,12 @@ I am a **Solution Architect** based in **Stuttgart, Germany**, dedicated to arch
 
 ---
 
-### 🏆 Featured Impact
-> One of my flagship tools, [**ImgCompress**](https://karimz1.github.io/imgcompress), has reached a massive milestone in the community:
+### 🏆 Featured Tools
+> One of my tools, [**ImgCompress**](https://imgcompress.karimzouine.com), has reached a small milestone in the community:
 > 
 > [![Docker Pulls](https://img.shields.io/docker/pulls/karimz1/imgcompress?style=flat-square&color=6366f1&label=IMGCOMPRESS%20DOCKER%20PULLS)](https://hub.docker.com/r/karimz1/imgcompress)
 > 
-> It started as a personal solution and now helps thousands of developers automate their image optimization workflows.
+> It started as a personal solution and now helps thousands of people simplify their image optimization workflows.
 
 ---
 
