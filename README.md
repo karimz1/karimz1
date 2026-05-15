@@ -1,7 +1,5 @@
 # Hi, I’m Karim Zouine
 
-### Software Architect and Engineering Team Lead
-
 <p align="left">
   <a href="https://karimzouine.com">
     <img src="https://img.shields.io/badge/Portfolio-karimzouine.com-6366f1?style=for-the-badge" alt="Portfolio" />
@@ -16,23 +14,7 @@
 
 ---
 
-## About Me
-
-I am a **Software Architect and Engineering Team Lead** based in **Stuttgart, Germany**.
-
-I design scalable systems, lead a small engineering team, and stay close to the code. My work focuses on turning architectural decisions into stable, maintainable software that teams can build, operate, and evolve with confidence.
-
-I enjoy backend engineering, cloud architecture, automation, and open-source tooling.
-
-- **Current Role:** Software Architect and Engineering Team Lead
-- **Working Style:** Hands-on Engineering
-- **Open For:** Selected Projects and thoughtful technical exchange
-
----
-
 ## Featured Project
-
-Outside of my day-to-day work, I build personal tools that solve practical problems.
 
 ### ImgCompress
 
