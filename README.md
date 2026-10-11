@@ -1,19 +1,7 @@
-# Hi, I’m Karim Zouine
+Technical Lead .NET and Solution Architect. Based in Stuttgart, open to remote.
 
-I have been passionate about coding since I was a kid, and I have never really stopped.
+Open source:
+- [imgcompress](https://imgcompress.karimzouine.com) — self-hosted image platform, 140k+ Docker pulls
+- [OFLH](https://oflh.karimzouine.com) — Open File Lock Handle, cross-platform tool in Rust
 
-Open source is more than a hobby for me. I genuinely love working on it, and it is always a joy to see my projects out there actually helping someone.
-Take [**ImgCompress**](https://imgcompress.karimzouine.com) for example. Started as something I built for myself, and now plenty of folks use it too. Most of my projects are free and open source, anyone can use them.
-
-<a href="https://hub.docker.com/r/karimz1/imgcompress">
-  <img src="https://img.shields.io/docker/pulls/karimz1/imgcompress?style=flat-square&color=0db7ed&label=Docker%20Pulls&logo=docker&logoColor=white" alt="Docker Pulls" />
-</a>
-
-
-____
-
-If you want to know more about me and my tech stack visit my Website.
-
-<a href="https://karimzouine.com">
-  <img src="https://img.shields.io/badge/Website-karimzouine.com-6366f1?style=for-the-badge" alt="Website" />
-</a>
+[Website](https://www.karimzouine.com)
