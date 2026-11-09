@@ -1,7 +1,12 @@
-Technical Lead .NET and Solution Architect. Based in Stuttgart, open to remote.
+# About Me
 
-Some of my Open source Projects:
-- [imgcompress](https://imgcompress.karimzouine.com) — self-hosted image platform, 157k+ Docker pulls
-- [OFLH](https://oflh.karimzouine.com) — Open File Lock Handle, cross-platform system-tool. [Article on WinFuture (German)](https://winfuture.de/download/product/4227/)
+Technical Lead & Solution Architect based in Stuttgart, Germany.
 
-[My Website](https://www.karimzouine.com)
+Always open to interesting opportunities and collaborations. Feel free to get in touch through [my website](https://www.karimzouine.com).
+
+In my free time, I enjoy building open-source software and exploring new ideas.
+
+## Open Source Projects
+
+- **[imgcompress](https://imgcompress.karimzouine.com)** — Self-hosted image platform with **160k+ Docker pulls**.
+- **[OFLH](https://oflh.karimzouine.com)** — Open File Lock Handle, a cross-platform system utility. [Featured on WinFuture (German)](https://winfuture.de/download/product/4227/).
